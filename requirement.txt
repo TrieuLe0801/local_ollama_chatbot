@@ -1,0 +1,6 @@
+streamlit
+langchain-ollama
+python-dotenv
+flake8
+black
+isort
